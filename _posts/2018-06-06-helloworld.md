@@ -10,3 +10,5 @@ comments: true
 Hello World!
 
 This is my first post. And just for testing.
+
+My another blog is [GeGuFun](https://gegu.fun)
