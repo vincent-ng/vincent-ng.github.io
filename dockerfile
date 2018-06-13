@@ -1,4 +1,4 @@
-FROM jekyll/jekyll AS build-stage
+FROM jekyll/jekyll
 WORKDIR /srv/jekyll
 COPY Gemfile .
 RUN bundle
