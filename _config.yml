@@ -17,7 +17,7 @@ title: VincentNG
 description: > # this means to ignore newlines until "baseurl:"
   VincentNG Personal Website
 baseurl: ""
-url: "https://vincent.gegu.fun"
+url: "https://vincentng.cn"
 permalink: /:year/:month/:day/:title
 repository: vincentngthu/vincentngthu.github.io
 paginate: 5
@@ -26,7 +26,7 @@ paginate: 5
 github_profile: "https://github.com/vincentngthu"
 user: "vincentngthu"
 user_email: "zhanwei.wu@dbjtech.com"
-contact_url: "https://www.wjx.top/jq/24784100.aspx"
+# contact_url: "https://www.wjx.top/jq/24784100.aspx"
 google_tracking_id: "UA-20981875-4"
 google_site_verification: "UA-20981875-4"
 disqus_shortname: "vincentng"
